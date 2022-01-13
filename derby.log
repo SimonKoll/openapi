@@ -1,0 +1,13 @@
+Thu Jan 13 08:39:25 CET 2022 : Apache Derby Network Server 10.15.1.3 - (1853019) wurde gestartet und ist bereit, Verbindungen auf Port 1527 zu akzeptieren.
+----------------------------------------------------------------
+Thu Jan 13 08:39:41 CET 2022:
+Booten von Derby-Version The Apache Software Foundation - Apache Derby - 10.15.1.3 - (1853019): Instanz a816c00e-017e-5260-8a31-000017d506f2
+für Datenbankverzeichnis C:\Users\simon\Desktop\SCHULE\5BHITM\SEW\quarkus-jpa-start\openapi-db mit Class Loader jdk.internal.loader.ClassLoaders$AppClassLoader@73d16e93
+Geladen aus file:/C:/opt/db-derby-10.15.1.3-bin/db-derby-10.15.1.3-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+user.dir=C:\Users\simon\Desktop\SCHULE\5BHITM\SEW\quarkus-jpa-start
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\simon\Desktop\SCHULE\5BHITM\SEW\quarkus-jpa-start
+Datenbank-Class Loader wurde gestartet - derby.database.classpath=''
